@@ -1,0 +1,13 @@
+# full_aeon6580_we_m-user 6.0 MRA58K 1466685788 dev-keys
+- manufacturer: wolder
+- platform: mt6580
+- codename: WOLDER WIAM #24
+- flavor: full_aeon6580_we_m-user
+- release: 6.0
+- id: MRA58K
+- incremental: 1466685788
+- tags: dev-keys
+- fingerprint: Wolder/full_aeon6580_we_m/aeon6580_we_m:6.0/MRA58K/1466685788:user/dev-keys
+- brand: Wolder
+- branch: full_aeon6580_we_m-user-6.0-MRA58K-1466685788-dev-keys
+- repo: wolder_wolder wiam #24_dump
